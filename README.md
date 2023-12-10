@@ -3,7 +3,6 @@ AI voice use advanced algorithms to modify human voices, creating unique and cre
 
 # SoftVC VITS Singing Voice Conversion Fork
 
-
 <p align="center">
   <a href="https://github.com/voicepaw/so-vits-svc-fork/actions/workflows/ci.yml?query=branch%3Amain">
     <img src="https://img.shields.io/github/actions/workflow/status/voicepaw/so-vits-svc-fork/ci.yml?branch=main&label=CI&logo=github&style=flat-square" alt="CI Status" >
@@ -70,7 +69,6 @@ Windows (development version required due to [pypa/pipx#940](https://github.com/
 py -3 -m pip install --user git+https://github.com/pypa/pipx.git
 py -3 -m pipx ensurepath
 ```
-
 Linux/MacOS:
 
 ```shell
