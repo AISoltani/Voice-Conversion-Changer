@@ -120,7 +120,6 @@ python -m pip install -U pip setuptools wheel
 pip install -U torch torchaudio --index-url https://download.pytorch.org/whl/cu118 # https://download.pytorch.org/whl/nightly/cu121
 pip install -U so-vits-svc-fork
 ```
-
 <details>
   <summary>Notes</summary>
 
